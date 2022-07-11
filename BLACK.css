@@ -1,0 +1,150 @@
+.image{
+    border-radius: 250px;
+    width: 45px;
+    height: 45px;
+}.navbar-brand{
+ 
+  font-family: Arial Black;
+  
+}.nav-item{
+
+    font-size: 17px;
+    font-weight: bold;
+}
+    .ft{
+      font-weight: bolder;
+    }
+   
+.navbar-nav{
+  margin-left: 50px;
+}.navbar{
+  border-bottom: -2px lightgray solid;
+  box-shadow: lightgray 2px 2px ;
+  
+}.name{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}.bg{
+  background-repeat: no-repeat;
+
+}.bg1{
+  position: relative;
+  width: 1349px;
+  height: 340px;
+ background-size: cover;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-image: url("https://images.ctfassets.net/ov8o7v78mnye/6JTwhj2JHkJqdyGKQqeCW0/1c365adecbf39ae640d66a8ed557f04e/BackgroundDesktop.svg");
+}.text{
+  position: absolute;
+  margin: 80px;
+}.bg{
+  background-image: url("car.webp");
+  width: 1370px;
+  height: 340px;
+  background-size: cover;
+  background-position:center;
+  background-repeat: no-repeat;
+  z-index: -1;
+  
+}.box{
+  margin-top: -400px;
+  margin-left: 600px;
+  width: 490px;
+  height: 547px;
+  border: 2px solid white;
+  z-index: -1;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 12px 12px 12px 12px lightslategrey;
+}.text-dark{
+  background:lightgray;
+  z-index: -1;
+}.service{
+  margin-top: 117px;
+}.center{
+  font-size: 57px;
+  text-align: center;
+}.card-img-top{
+  border-radius: 20px;
+  height: 100px;
+}.card-title{
+  font-size: 17px;
+}.card{
+  border-radius: 17px;
+
+}.bg2{
+  width: 1400px;
+  height: 340px;
+  background-size: cover;
+  background-position:center;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: -1;
+  background-color: white;
+  
+}video {
+  width: 1390px;
+  position: relative;
+
+}.card2{
+  position: absolute;
+ margin-top: -337px;
+ border-radius: 17px;
+}.fam{
+ color: black;
+ opacity: 0.7;
+  font-weight: bolder;
+  font-size: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+}.bg3{
+  background-image: url("https://images.ctfassets.net/ov8o7v78mnye/NIgWGmOZmzAoUPmgTnTEk/1e31cf986e62e6b831ef1a914748c021/Chauffeur_Stories_Rashid_tablet.jpg?fm=webp");
+  width: 1370px;
+  height: 430px;
+  background-size: cover;
+  background-position:center center;
+  background-repeat: no-repeat;
+}.box1
+{left: 7%;
+  top: 367%;
+  position: absolute;
+  
+  width: 527px;
+  height: 250px;
+  background-color: #feae96;
+background-image: linear-gradient(200deg, #feae96 10%, #fe0944 74%);
+}.chaf{
+  font-size: 40px;
+  font-weight: bolder;
+}.bi-quote{
+  margin-top: 77px;
+
+}.write{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  opacity: 0.8;
+  margin-top: 20px;
+}.but,.back{
+     background-color: black;
+     
+}.line{
+  border-top: 1px solid white;
+  opacity: 0.7;
+ }.content-info .text .op-text{
+   position: absolute;
+   padding: 25px; 
+   width: 550px;
+   margin-left: -110px;
+   margin-top: -100px;
+  
+ }.content-info .text .op-text:nth-child(2){
+   display: none;
+
+ }.fbox{
+  margin-top: 420px;
+ }.dropdown-item{
+   font-weight: bolder;
+   font-size: large;
+   
+ }.dropdown-item:hover{
+   background-color: lightslategrey;
+ }
